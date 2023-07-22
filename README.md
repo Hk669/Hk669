@@ -15,6 +15,7 @@
 
 
 - 🔭  I’m currently working on Deep Learning, Building Chatbots, and Natural Language Generation.
+- 👨‍💻  Contributing to open-source projects.
 - ⚡️  Fun fact: When I'm not coding, you can find me on the football field, enjoying the beautiful game and staying active.
 
 <br>
