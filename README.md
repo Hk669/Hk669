@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hrushikesh Dokala </h1>
 
 
-<h3> I'm a Machine Learning Engineer. Co-Founder of AdvantageAI. Welcome to my Github Profile.</h3>
+<h3> Welcome to my Github Profile.</h3>
 <br>
 
 ### Technologies and Frameworks I've worked with: 
