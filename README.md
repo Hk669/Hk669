@@ -18,6 +18,14 @@
 - 👨‍💻  Contributing to open-source projects.
 - ⚡️  Fun fact: When I'm not coding, you can find me on the football field, enjoying the beautiful game and staying active.⚽
 
+## ⚙️ &nbsp;Cool Analytics
+
+<p align="left">
+<a href="https://github.com/Hk669">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hk669&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+</a>
+</p>
+
 <br>
 
 ### Connect with me here:
