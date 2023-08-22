@@ -34,4 +34,6 @@
    <img align="left" alt="Hrushikesh Dokala | X" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
 </a>
 <br><br>
+
 ### Looking for open-source projects? Here is the destination : [AdvantageCommunity](https://github.com/AdvantageCommunity)
+<br>
