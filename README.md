@@ -33,8 +33,10 @@
 
 ### My previous contributions:
 
+- [AutoGen](https://github.com/microsoft/autogen/)
 - [HackClub](https://github.com/hackclub/slash-z/pull/154)
 - [MLJAR supervised](https://github.com/mljar/mljar-supervised/pull/679)
+
 
 <br>
 
